@@ -1,12 +1,12 @@
-# flutter_login
+# Flutter login system
 
-A new Flutter project.
+This is a simple Flutter login system where users can log in only if the username and password are the same. It demonstrates basic authentication logic using TextFields, form validation, and user input handling in Flutter.
 
-## Getting Started
+## How It Works
 
-This project is a starting point for a Flutter application.
+User Input: The user enters a username and password.
 
-A few resources to get you started if this is your first Flutter project:
+Validation: If both values are identical, the user is logged in.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
